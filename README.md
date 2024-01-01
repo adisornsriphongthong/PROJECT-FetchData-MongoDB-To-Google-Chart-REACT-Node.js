@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 ]()
 <br/>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Google-Charts-Logo.png" alt="bootstrap" width="46" height="40" /></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Google-Charts-Logo.png" alt="bootstrap" width="45" height="45" /></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="bootstrap" width="46" 
   height="40" /></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="bootstrap" width="40" 
