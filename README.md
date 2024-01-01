@@ -15,5 +15,5 @@ Currently, two official plugins are available:
   height="40" /> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="bootstrap" width="35" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/474x/84/2e/24/842e24310fcac8b53287db087a15ed39.jpg" alt="spring" width="45" height="45" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src=" https://i.pinimg.com/474x/8b/96/3e/8b963e98c2bbfd1fadc921d1af7403f0.jpg" alt="spring" width="45" height="45" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/474x/8b/96/3e/8b963e98c2bbfd1fadc921d1af7403f0.jpg" alt="spring" width="45" height="45" /></a>
  
