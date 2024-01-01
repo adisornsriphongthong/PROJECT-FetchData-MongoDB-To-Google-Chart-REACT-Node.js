@@ -1,4 +1,4 @@
-![image](https://github.com/adisornsriphongthong/PROJECT-FetchData-MongoDB-To-Google-Chart-REACT-Node.js/assets/110546558/efca032e-f80a-4cb6-af46-2358dec39ead)# PROJECT-FetchData-MongoDB-To-Google-Chart-REACT-Node.js
+PROJECT-FetchData-MongoDB-To-Google-Chart-REACT-Node.js
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
